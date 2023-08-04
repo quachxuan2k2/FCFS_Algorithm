@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\bin\Debug\ThuatToan.exe.config
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\bin\Debug\ThuatToan.exe
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\bin\Debug\ThuatToan.pdb
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.Form1.resources
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.exe
+C:\Users\ADMIN\Desktop\ThuatToan\ThuatToan\obj\Debug\ThuatToan.pdb
